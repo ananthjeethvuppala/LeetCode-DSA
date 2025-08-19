@@ -37,7 +37,7 @@ I am **consistently solving problems** and regularly **pushing solutions** to tr
 
 ## 📌 Repository Status  
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
 
   <!-- Last Updated -->
   <img src="https://img.shields.io/github/last-commit/ananthjeethvuppala/LeetCode-DSA?style=for-the-badge&color=green" alt="Last Updated" />
@@ -45,11 +45,20 @@ I am **consistently solving problems** and regularly **pushing solutions** to tr
   <!-- Total Python Files -->
   <img src="https://img.shields.io/github/languages/count/ananthjeethvuppala/LeetCode-DSA?style=for-the-badge&color=blue&label=Python%20Files" alt="Python Files" />
 
-  <!-- Total Repositories Activity -->
-  <img src="https://img.shields.io/github/commit-activity/m/ananthjeethvuppala/LeetCode-DSA?style=for-the-badge&color=orange" alt="Commit Activity" />
+  <!-- Total Problems Solved (Manual) -->
+  <img src="https://img.shields.io/badge/Problems%20Solved-150-orange?style=for-the-badge" alt="Problems Solved" />
 
-  <!-- Optional: Total Problems Solved -->
-  <img src="https://img.shields.io/badge/Problems%20Solved-XXX-orange?style=for-the-badge" alt="Problems Solved" />
+  <!-- Commit Activity -->
+  <img src="https://img.shields.io/github/commit-activity/m/ananthjeethvuppala/LeetCode-DSA?style=for-the-badge&color=yellow" alt="Commit Activity" />
+
+  <!-- Repository Size -->
+  <img src="https://img.shields.io/github/repo-size/ananthjeethvuppala/LeetCode-DSA?style=for-the-badge&color=red" alt="Repo Size" />
+
+  <!-- Open Issues -->
+  <img src="https://img.shields.io/github/issues/ananthjeethvuppala/LeetCode-DSA?style=for-the-badge&color=purple" alt="Open Issues" />
+
+  <!-- Top Language -->
+  <img src="https://img.shields.io/github/languages/top/ananthjeethvuppala/LeetCode-DSA?style=for-the-badge&color=lightblue" alt="Top Language" />
 
 </p>
 
