@@ -35,42 +35,12 @@ I am **consistently solving problems** and regularly **pushing solutions** to tr
 
 ---
 
-## 📈 GitHub Stats & Words of Wisdom  
+## 📌 Repository Status  
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-  <!-- GitHub Stats -->
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=ananthjeethvuppala&show_icons=true&theme=dark" 
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=ananthjeethvuppala&show_icons=true&theme=default" 
-      media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=ananthjeethvuppala&show_icons=true" height="160" />
-  </picture>
-
-  <!-- GitHub Streak -->
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=ananthjeethvuppala&theme=dark" 
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=ananthjeethvuppala&theme=default" 
-      media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthjeethvuppala" height="160" />
-  </picture>
-
-  <!-- Words of Wisdom / Quote -->
-  <picture>
-    <source 
-      srcset="https://quotes-github-readme.vercel.app/api?theme=dark&type=vertical" 
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://quotes-github-readme.vercel.app/api?theme=light&type=vertical" 
-      media="(prefers-color-scheme: light)" />
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical" alt="Quote" height="160" />
-  </picture>
+  <!-- Last Updated Badge -->
+  <img src="https://img.shields.io/github/last-commit/ananthjeethvuppala/LeetCode-DSA?style=for-the-badge&color=green" alt="Last Updated" />
 
 </p>
 
