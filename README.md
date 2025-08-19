@@ -45,9 +45,6 @@ I am **consistently solving problems** and regularly **pushing solutions** to tr
   <!-- Total Python Files -->
   <img src="https://img.shields.io/github/languages/count/ananthjeethvuppala/LeetCode-DSA?style=for-the-badge&color=blue&label=Python%20Files" alt="Python Files" />
 
-  <!-- Total Problems Solved (Manual) -->
-  <img src="https://img.shields.io/badge/Problems%20Solved-150-orange?style=for-the-badge" alt="Problems Solved" />
-
   <!-- Commit Activity -->
   <img src="https://img.shields.io/github/commit-activity/m/ananthjeethvuppala/LeetCode-DSA?style=for-the-badge&color=yellow" alt="Commit Activity" />
 
