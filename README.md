@@ -37,7 +37,7 @@ I am **consistently solving problems** and regularly **pushing solutions** to tr
 
 ## 📌 Repository Status  
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
 
   <!-- Last Updated -->
   <img src="https://img.shields.io/github/last-commit/ananthjeethvuppala/LeetCode-DSA?style=for-the-badge&color=green" alt="Last Updated" />
