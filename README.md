@@ -39,8 +39,17 @@ I am **consistently solving problems** and regularly **pushing solutions** to tr
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-  <!-- Last Updated Badge -->
+  <!-- Last Updated -->
   <img src="https://img.shields.io/github/last-commit/ananthjeethvuppala/LeetCode-DSA?style=for-the-badge&color=green" alt="Last Updated" />
+
+  <!-- Total Python Files -->
+  <img src="https://img.shields.io/github/languages/count/ananthjeethvuppala/LeetCode-DSA?style=for-the-badge&color=blue&label=Python%20Files" alt="Python Files" />
+
+  <!-- Total Repositories Activity -->
+  <img src="https://img.shields.io/github/commit-activity/m/ananthjeethvuppala/LeetCode-DSA?style=for-the-badge&color=orange" alt="Commit Activity" />
+
+  <!-- Optional: Total Problems Solved -->
+  <img src="https://img.shields.io/badge/Problems%20Solved-XXX-orange?style=for-the-badge" alt="Problems Solved" />
 
 </p>
 
