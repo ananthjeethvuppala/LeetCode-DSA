@@ -3,7 +3,7 @@ class Solution(object):
         if len(s) != len(t):
             return False
 
-        elif sorted(s) == sorted(t):
+        elif Counter(s) == Counter(t):
             return True
         else:
             return False
