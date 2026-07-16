@@ -1,27 +1,36 @@
-class Solution(object):
-    def myAtoi(self, s):
-        INT_MAX = 2147483647
-        INT_MIN = -2147483648
-
-        i = 0 
+class Solution:
+    def myAtoi(self, s: str) -> int:
+        i = 0
         n = len(s)
-
-        while i < n and s[i] == " ":
-            i += 1
-
         sign = 1
-        if i < n and (s[i] == "+" or s[i] == "-"):
-            if s[i] == "-":
+        num = 0
+
+        while i<n and s[i] == ' ':
+            i += 1
+        
+        while i<n and (s[i] == '+' or s[i] == '-'):
+            if s[i] == '-':
                 sign = -1
             i += 1
 
-        result = 0
-        while i < n and s[i].isdigit():
-            digit = int(s[i])
+            if i>=n or not s[i].isdigit():
+                return 0
 
-            if result > INT_MAX // 10 or (result == INT_MAX // 10 and digit > 7):
-                return INT_MAX if sign == 1 else INT_MIN
 
-            result = result * 10 + digit
+
+        while i<n and s[i].isdigit():
+            num = num*10 + int(s[i])
             i += 1
-        return sign * result 
+        
+        num *= sign
+
+        INT_MIN = -2147483648
+        INT_MAX = 2147483647
+
+        if num > INT_MAX:
+            return INT_MAX
+        
+        if num < INT_MIN:
+            return INT_MIN
+        
+        return num
